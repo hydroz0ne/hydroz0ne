@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Morissey - Github Header.png" alt="Header Image">
+</p>
+
 ## Hello there, I'm Morissey! 👋
 
 🎓  I'm currently studying Computer Science at Bath Spa University.
