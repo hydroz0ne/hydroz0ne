@@ -3,7 +3,6 @@
 </p>
 
 ## Hello there, I'm Morissey! 👋
-
 🎓  I'm currently studying Computer Science at Bath Spa University.
 <br>
 💡  I like to explore new technologies and develop different graphic designs.
@@ -31,9 +30,6 @@
 
 ## 🤝 **Connect with Me**  
 <p align="center">
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website">
-  </a>
   <a href="mailto:morissey2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
