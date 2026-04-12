@@ -1,7 +1,7 @@
-Hello there, I'm Morissey. I'm an aspiring data scientist & analyst who recently graduated from Bath Spa University. Currently studying more on data analysis and reporting, query optimization, database design, and data modelling. I like to explore new technologies and develop different graphic designs.
+Hello there, I'm Morissey. I'm an aspiring data scientist & analyst. Currently studying more on data analysis, reporting, and modelling, query optimization, and database design. I also like to explore new technologies and develop different graphic designs.
 
 ### Projects
-You may check my projects 
+You may explore my projects in the repositories below.
 
 ### Tools 
 <ul>
